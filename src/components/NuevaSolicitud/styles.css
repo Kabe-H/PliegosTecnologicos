@@ -1,0 +1,6 @@
+.contenedorPrincipal {
+    
+    min-height: 340px;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 1px 3px 16px 0px rgba(0,0,0,0.75);
+}

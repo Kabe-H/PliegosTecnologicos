@@ -1,0 +1,12 @@
+#body {
+    background-color: #f7f7f7;
+}
+
+.container-app {
+    min-height: 110vh;
+    position: relative;
+}
+
+.content {
+    min-height: 110vh;
+}
